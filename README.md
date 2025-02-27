@@ -74,7 +74,7 @@ pip install pandas plotly Wordcloud jupyter
 - Adding **Sentiment Analysis** on comments to understand audience sentiment.
 
 ## Contributors
-- **Your Name** ([Your GitHub](https://github.com/rajatgupta3121))
+- **Rajat Gupta** (https://github.com/rajatgupta3121)
 
 ## License
 This project is licensed under the MIT License.
