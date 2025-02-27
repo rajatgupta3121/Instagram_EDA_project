@@ -13,10 +13,7 @@ This project performs **Exploratory Data Analysis (EDA) on Instagram Data** to u
 - **Python** (Data Analysis & Visualization)
 - **Jupyter Notebook** (Interactive Development)
 - **Pandas** (Data Manipulation)
-- **NumPy** (Numerical Computations)
-- **Matplotlib & Seaborn** (Data Visualization)
 - **Plotly** (Interactive Graphs)
-- **Scikit-learn** (For basic statistical analysis)
 
 ## Installation & Setup
 ### Prerequisites
